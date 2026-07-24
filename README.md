@@ -139,14 +139,14 @@ Supports:
 # 🔄 Application Workflow
 
 ```text
-Landing Page
-      │
-      ▼
-Register / Login
-      │
-      ▼
-Dashboard
-      │
+         Landing Page
+              │
+              ▼
+      Register / Login
+              │
+              ▼
+          Dashboard
+              │
       ├───────────────┐
       │               │
       ▼               ▼
